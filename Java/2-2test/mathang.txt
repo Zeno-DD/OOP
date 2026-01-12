@@ -1,0 +1,8 @@
+MA, 101, Bo Bit Tet Wagyu, 10, 500000, true
+DU, 201, Tra Sen Nong, 50, 20000, true
+MA, 102, Com Rang Dua Bo, 25, 35000, false
+DU, 202, Pepsi Tuoi, 100, 8000, false
+MA, 103, Tom Hum Alaska, 5, 1200000, true
+DU, 203, Ca Phe Da, 30, 15000, false
+MA, 104, Ga Luoc La Chanh, 15, 150000, false
+DU, 204, Nuoc Ep Cam, 20, 25000, false

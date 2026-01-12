@@ -1,0 +1,1 @@
+ruong{maRuong=123, tenChuHo=Nhat, loaiCayTrong=Cam, dienTichMax=100.0}ruongVuong{doDaiCanh=2.0}

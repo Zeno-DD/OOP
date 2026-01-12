@@ -1,0 +1,6 @@
+TienTe,101,USD,true,25300.5
+TrangSuc,102,Vang 9999,true,8200000.0
+TienTe,103,Euro,true,27100.0
+TrangSuc,104,Bac 925,false,1500000.0
+TrangSuc,105,Dai bang sa mac,false,5000000.0
+TienTe,106,Dat villa,true,400000.0
